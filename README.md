@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Balubalaramireddyk@gmail.com
+- 📫 How to reach me balubalaramireddyk@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: JavaScript was originally developed under the name Mocha, which was later changed to LiveScript,
                and finally to JavaScript. Despite its name, it has no relation to Java.
